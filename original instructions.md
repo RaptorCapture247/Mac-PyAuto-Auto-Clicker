@@ -6,7 +6,7 @@
 
 **IF YOU ARE NOT USING IT FOR AUTO MINING/SWAPPING TURN IT OFF!!!!**
 
-If you get stuck, tag and ping me in: https://discord.com/channels/1335026643214929952/1352139613539401760
+If you get stuck, tag and ping me in: 
 
 ## Resources
 
@@ -179,6 +179,9 @@ Check the folder to ensure the image is now saved there.
 This step can be performed with any wallet that you are using.
 
 **IMPORTANT NOTE**: Once this script is started, it will approve ANY and ALL popups that match your images. If you are not using the auto swapper, **TURN OFF THE SCRIPT!**
+Example image
+![images/confirm1.png](https://github.com/RaptorCapture247/Mac-PyAuto-Auto-Clicker/blob/a94e8ce3fa2fcf62ed2149acf24a8e6c46b4ccd0/images/confirm1.png)
+
 
 ### Slippage Tolerance Screenshot
 
@@ -188,6 +191,9 @@ In order to force this image, we will adjust our slippage to Fixed and a value o
 
 Once we do that, we can repeat the above actions. Cancel and retry until you see the image in this message. We will call this image `cancel1.png`.
 
+Example image
+![images/cancel1.png](https://github.com/RaptorCapture247/Mac-PyAuto-Auto-Clicker/blob/a94e8ce3fa2fcf62ed2149acf24a8e6c46b4ccd0/images/cancel1.png)
+
 ### Mining Session Screenshot
 
 Finally, we will now grab the popup for the xminer when we start a mining session.
@@ -195,6 +201,9 @@ Finally, we will now grab the popup for the xminer when we start a mining sessio
 Again, follow the steps at the beginning of this section to capture the screenshot except you will start a mining session and use the confirm popup that appears. You will want it to look like the example in this message.
 
 We will call this `mine.png`.
+
+Example Image
+![images/mine.png](https://github.com/RaptorCapture247/Mac-PyAuto-Auto-Clicker/blob/a94e8ce3fa2fcf62ed2149acf24a8e6c46b4ccd0/images/mine.png)
 
 ### Additional Screenshots
 
@@ -206,6 +215,9 @@ Additionally, you will encounter other popups that are not listed here. You will
 These are both built into the script and after saving will be handled appropriately.
 
 Any other popups that appear will cause the script to pause, making it easy to grab them. If you encounter one, and after grabbing the image and cropping to look similar to the other examples here, you can save it as either:
+
+Example Images
+![images/popup-ideas.png](https://github.com/RaptorCapture247/Mac-PyAuto-Auto-Clicker/blob/a94e8ce3fa2fcf62ed2149acf24a8e6c46b4ccd0/images/popup-ideas.png)
 
 **If you want confirm clicked:**
 - `confirm3.png`
