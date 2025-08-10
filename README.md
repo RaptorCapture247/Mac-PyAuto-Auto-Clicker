@@ -1,5 +1,7 @@
 # Mac-PyAuto-Auto-Clicker
-Use this script for automating clicks on a MacOS. Script is setup for wallet confirmations or cancels depending on users saved screenshots.
+Use this script for automating clicks on a MacOS. Script is setup for wallet confirmations or cancels depending on users saved screenshots. 
+
+Images in this repository will not work for your setup and are intended for example and reference purposes only. You must take your own screenshots using your main monitor (must be monitor 1 in multi monitor setups).
 
 # PyAutoGUI Pond0x Automation Script
 
