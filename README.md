@@ -231,7 +231,6 @@ once open you can further crop the image to trim down excess borders not seen in
 click the save icon and travel to the pyautogui folder we created in step 4 save the file as "confirm1.png"
 
 check the folder to ensure the image is now saved there
-
 ![confirm1 image example](confirm1.png)
 
 
@@ -244,7 +243,6 @@ The next image we are going to grab will be off the slippage tolerance exceeded 
 in order to force this image we will adjust our slippage to Fixed and a value of 0.01% and use $SOL>USDC.
 
 once we do that we can repeat the above actions. Cancel and retry until you see the image in this message. we will call this image cancel1.png
-
 ![cancel image example](cancel1.png)
 
 
@@ -253,7 +251,6 @@ Finally we will now grab the popup for the xminer when we start a mining session
 Again follow the steps at the beginning of this section to capture the screen shot except you will start a mining session and use the confirm popup that appears. you will want it to look like the example in this message.
 
 we will call this "mine.png"
-
 ![mine image example](mine.png)
 
 
@@ -270,8 +267,11 @@ cancel4.png
 cancel5.png
 
 This gives you a little customization ability to help the script work for you. If you run out of image slots then let us know and we can help you with adding more to the script.
-
 ![confirm2 image example](confirm2.png) ![cancel2 image example](cancel2.png)
+
+Here are all the images I currently have in use. Watch for new ones and be sure to grab them when you can. A quick way to grab them is to simply screenshot the entire screen and then crop the image to just area needed within the popup.
+
+![collage of example popups](popup-ideas.png)
 
 
 ## Step 7: Give Python Permission
@@ -364,9 +364,6 @@ To restart simply open command prompt and your cheat sheet, copy paste each comm
 
 ## IF YOU ARE NOT USING IT FOR AUTO MINING/SWAPPING TURN IT OFF!!!!
 
-Here are all the images I currently have in use. Watch for new ones and be sure to grab them when you can. A quick way to grab them is to simply screenshot the entire screen and then crop the image to just area needed within the popup.
-
-![collage of example popups](popup-ideas.png)
 
 ### Advanced Configuration
 - **Confidence Level**: Adjust image recognition sensitivity (default: 0.9)
