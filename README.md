@@ -47,17 +47,17 @@ This PyAutoGUI automation script was specifically designed for **Pond0x crypto s
 ```
 ~/PyAutoGUI/
 ├── Mac-auto-clicker.py          # Main script file
-├── mine.png                 # Mining confirmation popup
-├── confirm1.png             # Primary transaction confirmation
-├── confirm2.png             # Network fee confirmation
-├── confirm3.png             # Additional confirmation popup
-├── confirm4.png             # Additional confirmation popup  
-├── confirm5.png             # Additional confirmation popup
-├── cancel1.png              # Slippage error popup
-├── cancel2.png              # Balance insufficient popup
-├── cancel3.png              # Additional cancel popup
-├── cancel4.png              # Additional cancel popup
-└── cancel5.png              # Additional cancel popup
+├── mine.png                     # Mining confirmation popup
+├── confirm1.png                 # Primary transaction confirmation
+├── confirm2.png                 # Network fee confirmation
+├── confirm3.png                 # Additional confirmation popup
+├── confirm4.png                 # Additional confirmation popup  
+├── confirm5.png                 # Additional confirmation popup
+├── cancel1.png                  # Slippage error popup
+├── cancel2.png                  # Balance insufficient popup
+├── cancel3.png                  # Additional cancel popup
+├── cancel4.png                  # Additional cancel popup
+└── cancel5.png                  # Additional cancel popup
 ```
 
 ## Security and Safety
