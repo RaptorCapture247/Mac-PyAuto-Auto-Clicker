@@ -12,8 +12,8 @@ This PyAutoGUI automation script was specifically designed for **Pond0x crypto s
 ## Purpose and Functionality
 
 ### Primary Use Case: Pond0x Operations
-- **Automated Transaction Confirmations**: Automatically confirms swap transactions between cryptocurrencies (e.g., SOL to wPOND)
-- **Mining Session Management**: Automatically starts and manages crypto mining sessions
+- **Automated Transaction Confirmations**: Automatically clicks wallet popups to confirm or cancel swap transactions between cryptocurrencies (e.g., SOL to wPOND)
+- **Mining Session Management**: Automatically clicks wallet popups to start crypto mining sessions
 - **Error Handling**: Manages common errors like slippage tolerance exceeded, network fee notifications, and insufficient balance warnings
 - **Multi-popup Support**: Handles various popup types with customizable confirm/cancel actions
 
